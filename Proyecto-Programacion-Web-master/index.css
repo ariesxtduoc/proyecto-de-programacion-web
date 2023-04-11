@@ -1,0 +1,54 @@
+body{
+    background-color: bisque;
+    margin: 0;
+}
+
+.contenedor{
+    display: inline-block;
+}
+
+.espacio{
+    width: 60%;
+    height: 80%;
+    margin-left: 20%;
+}
+
+
+#div1{
+    width: 100%;
+    height: 80%;
+    background-color: black;
+    color: aliceblue;
+}
+
+#div2{
+    width: 100%;
+    height: 80%;
+    background-color: dodgerblue;
+}
+
+.center{
+    float: inline-start;
+}
+
+.iconos{
+    width: 5%;
+    height: 5%;
+}
+
+#div4{
+    margin-left: 1%;
+}
+
+.margen{
+    text-align: center;
+}
+
+.logo{
+    width: 35%;
+    height: 35%;
+}
+
+#derecha{
+    margin-left: 70%;
+}

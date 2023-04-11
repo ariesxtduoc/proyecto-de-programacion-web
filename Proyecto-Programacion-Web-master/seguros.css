@@ -1,0 +1,42 @@
+body{
+    background-color: cadetblue;
+}
+
+#div1{
+    background-color: darkslategrey;
+    width: 100%;
+    height: 40%;
+    margin-top: 0%;
+}
+
+#div2{
+    width: 15%;
+    height: 15%;
+    display: inline-block;
+}
+
+/* Aqui van las imagenes de seguros */
+.imagenseg{
+    background-color: azure;
+    width: 90%;
+    height: 40%;
+    margin-left: 4%;
+}
+/* Aqui van las imagenes de seguros */
+
+#div4{
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 40%;
+}
+
+.alineartext{
+    text-align: center;
+}
+
+.carrusel{
+    width: 40%;
+    height: 40%;
+    margin-left: 30%;
+    margin-top: 2%;
+}
